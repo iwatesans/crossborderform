@@ -3,7 +3,7 @@
 -------------------  
 
 **右**　  
-Ideal Image　（理想図）  
+<span style="color: red">Ideal Image　（理想図）</span>  
   
 [entity name] subject ● [color] sky blue  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
