@@ -2,7 +2,53 @@
 図１の各部分の説明  
 -------------------  
 
-coming soon
+右　Ideal Image　（理想図）  
+  
+[entity name] subject ● [color] sky blue  
+　　　　　　　　　　　　＼  
+   　　	　　        　　　＼　  subject's  aspect ● white  
+　　　　　　　　　　　　　　＼　　　　　　　　　　　＼  
+　　        subject's  aspect ● indigo　　　　　　　 ＼  
+　　　　　　　　　　　　　　　　＼　　　　　　　　　　　＼  
+　　　　　　　　　　　　　　　　　＼　　　　　　　　　　　＼  
+　　　　　　　　　　　　　　　　　　＼　　　　　　　　　　　＼  
+　　　　　　　　　　　　　　pleasant ● gold　　　　　　　　　＼  
+　　　　　　　　　　　　　　　　　　　　＼　　　　　　　　　　　＼  
+　　　　　　　　　　　　　　　　　　　　　＼     object's  aspect ● red [理想図 と 参照 して 非-同定 の 箇所は 赤]  
+　　　　　　　　　　　　　　　　　　　　　　＼  
+　　　　　　　　　  　　　　　object's aspect ● indigo  
+　　　　　　　　　　　　　　　　　　　　　　　　＼  
+　　　　　　　　　　　　　　　　　　　　　　　　　＼  
+　　　　　　　　　　　　　　　　　　　　　　　　　　＼  
+　　　　　　　　　　　　　 　　　　    　　　　object ● grass green  
+  
+  
+  
+  
+  
+  
+  
+左　Actual Image　（現実図）  
+  
+  
+[entity name] subject ● [color] sky blue  
+　　　　　　　　　　　　＼  
+   　　	　　        　　　＼　  subject's  aspect ● white  
+　　　　　　　　　　　　　　＼　　　　　　　　　　　＼  
+　　        subject's  aspect ● indigo　　　　　　　 ＼  
+　　　　　　　　　　　　　　　　＼　　　　　　　　　　　＼  
+　　　　　　　　　　　　　　　　　＼　　　　　　　　　　　＼  
+　　　　　　　　　　　　　　　　　　＼　　　　　　　　　　　＼  
+　　　　　　　　　　　　　　　　　[快は省略]　　　　　　　　　＼  
+　　　　　　　　　　　　　　　　　　　　＼　　　　　　　　　　　＼  
+　　　　　　　　　　　　　　　　　　　　　＼     object's  aspect ● indigo  
+　　　　　　　　　　　　　　　　　　　　　　＼  
+　　　　　　　　　  　　　　　object's aspect ● red　[理想図 と 参照 して 非-同定 の 箇所は 赤]  
+　　　　　　　　　　　　　　　　　　　　　　　　＼  
+　　　　　　　　　　　　　　　　　　　　　　　　　＼  
+　　　　　　　　　　　　　　　　　　　　　　　　　　＼  
+　　　　　　　　　　　　　 　　　　    　　　　object ● grass green  
+
 
 
 -------------------  
