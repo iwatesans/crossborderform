@@ -3,7 +3,7 @@
 -------------------  
 
 **右**　  
-Ideal Image　（理想図）
+**Ideal Image**　（理想図）
   
 [entity name] subject ● [color] sky blue  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
@@ -30,7 +30,7 @@ Ideal Image　（理想図）
   
   
 **左**　  
-Actual Image　（現実図）  
+**Actual Image**　（現実図）  
   
 [entity name] subject ● [color] sky blue  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
