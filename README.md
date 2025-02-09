@@ -6,7 +6,7 @@
   
 [entity name] subject ● [color] sky blue  
 　　　　　　　　　　　　＼  
-   　　	　 　        　　＼　  subject's  aspect ● white  
+                        ＼　  subject's  aspect ● white  
 　　　　　　 　　　　　　　　＼　　　　　　　　　　　＼  
 　　      s ubject's  aspect ● indigo　　　　　　　 ＼  
 　　　　　　 　　　　　　　　　　＼　　　　　　　　　　　＼  
