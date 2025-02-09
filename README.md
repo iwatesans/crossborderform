@@ -2,7 +2,7 @@
 図１の各部分の説明  
 -------------------  
 
-右　Ideal Image　（理想図）  
+**右**　Ideal Image　（理想図）  
   
 [entity name] subject ● [color] sky blue  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
@@ -25,10 +25,10 @@
   
   
   
--------------------  
   
   
-左　Actual Image　（現実図）  
+  
+**左**　Actual Image　（現実図）  
   
 [entity name] subject ● [color] sky blue  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
