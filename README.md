@@ -5,7 +5,7 @@
 **右**　  
 **Ideal Image**　（理想図）
 
-  
+&emsp;&emsp;&emsp;&emsp;**上**  
 [entity name] subject ● [color] sky blue  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼&emsp;&emsp;&emsp;&emsp;subject's  aspect ● white  
