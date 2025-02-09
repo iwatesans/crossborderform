@@ -8,7 +8,7 @@
   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**上**  
 [entity name] subject ● [color] sky blue  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**下**      
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼&emsp;&emsp;&emsp;&emsp;subject's  aspect ● white  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;subject's  aspect ● indigo&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
