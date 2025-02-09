@@ -5,6 +5,10 @@
 **||右||**　  
 **Ideal Image**　（理想図）
 
+
+  #####**||上|| と ||下|| の間に「境」**#####  
+  
+  
   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**||下||**  
 **[entity name]** subject ● **[color]** sky blue  
