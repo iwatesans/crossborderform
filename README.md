@@ -6,9 +6,9 @@
 **Ideal Image**　（理想図）
 
   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**下**  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**||下||**  
 **[entity name]** subject ● **[color]** sky blue  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**上**      
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**||上||**      
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼&emsp;&emsp;&emsp;&emsp;subject's  aspect ● white  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;subject's  aspect ● indigo&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
@@ -31,13 +31,13 @@
   
   
   
-**左**　  
+**||左||**　  
 **Actual Image**　（現実図）  
 
   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**下**  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**||下||**  
 **[entity name]** subject ● **[color]** sky blue  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**上**  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**||上||**  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼&emsp;&emsp;&emsp;&emsp;subject's  aspect ● white  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;subject's  aspect ● indigo&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
