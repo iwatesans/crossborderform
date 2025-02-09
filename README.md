@@ -34,8 +34,10 @@
 **||左||**　  
 **Actual Image**　（現実図）  
 
+  ##### **上と下の間に「境」**#####  
   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**||下||** ##### **||上||との間に「境」**#####            
+  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**||下||**               
 **[entity name]** subject ● **[color]** sky blue  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**||上||**  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼&emsp;&emsp;&emsp;&emsp;subject's  aspect ● white  
