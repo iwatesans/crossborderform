@@ -7,20 +7,20 @@
 [entity name] subject ● [color] sky blue  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼　  subject's  aspect ● white  
-　　　　　　 　　　　　　　　＼　　　　　　　　　　　＼  
-　　      s ubject's  aspect ● indigo　　　　　　　 ＼  
-　　　　　　 　　　　　　　　　　＼　　　　　　　　　　　＼  
-　　　　　　　 　　　　　　　　　　＼　　　　　　　　　　　＼  
-　　　　　　　　 　　　　　　　　　　＼　　　　　　　　　　　＼  
-　　　　　　　　　  　　　　　pleasant ● gold　　　　　　　　＼  
-　　　　　　　　　　 　　　　　　　　　　＼　　　　　　　　　　　＼  
-　　　　　　　　　　　 　　　　　　　　　　＼     object's  aspect ● red [理想図 と 参照 して 非-同定 の 箇所は 赤]  
-　　　　　　　　　　　　 　　　　　　　　　　＼  
-　　　　　　　　　  　　　　　object's aspect ● indigo  
-　　　　　　　　　　　　 　　　　　　　　　　　　＼  
-　　　　　　　　　　　　　 　　　　　　　　　　　　＼  
-　　　　　　　　　　　　　　 　　　　　　　　　　　　＼  
-　　　　　　　　　　　　　 　　　　    　　　　object ● grass green  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼　　　　　　　　　　　＼  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;subject's  aspect ● indigo　　　　　　　 ＼  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼　　　　　　　　　　　＼  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼　　　　　　　　　　　＼  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼　　　　　　　　　　　＼  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;pleasant ● gold　　　　　　　　＼  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼　　　　　　　　　　　＼  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼     object's  aspect ● red [理想図 と 参照 して 非-同定 の 箇所は 赤]  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;object's aspect ● indigo  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＼  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;object ● grass green  
   
   
   
