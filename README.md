@@ -3,7 +3,9 @@
 -------------------  
 
 3.5 MB
+
 発表（2025年5月29日）までに更新することがあります. 
+
 スライドの表紙の作成日をご確認ください. 
 
 https://drive.google.com/uc?export=download&id=19NAyct6gIwOPBriemTryWqXc8k2jAdAe
@@ -13,6 +15,7 @@ https://drive.google.com/uc?export=download&id=19NAyct6gIwOPBriemTryWqXc8k2jAdAe
 -------------------  
 
 64 MB
+
 7m 11s
 
 https://drive.google.com/uc?export=download&id=1LBkBkvk-w_DD23hoOxe6i3Pisf0FhLeG
