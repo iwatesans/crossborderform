@@ -1,5 +1,25 @@
+-------------------  
+発表スライド
+-------------------  
 
-図１の各部分の説明  
+3.5 MB
+発表（2025年5月29日）までに更新することがあります. 
+スライドの表紙の作成日をご確認ください. 
+
+https://drive.google.com/uc?export=download&id=19NAyct6gIwOPBriemTryWqXc8k2jAdAe
+
+-------------------  
+進学の 事例（投稿論文の　page 4）の デモ
+-------------------  
+
+64 MB
+7m 11s
+
+https://drive.google.com/uc?export=download&id=1LBkBkvk-w_DD23hoOxe6i3Pisf0FhLeG
+
+-------------------  
+
+図１（投稿論文の　page 1）の　各部分の説明  
 -------------------  
 
 **||右||**　  
@@ -64,7 +84,7 @@
 
 
 -------------------  
-動画  
+越境形式（cross border form）の 動画 （投稿論文の　page 1）
 -------------------  
 https://github.com/user-attachments/assets/56969406-c688-4bf5-8f13-687ef0435f5f  
   
