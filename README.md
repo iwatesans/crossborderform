@@ -9,6 +9,7 @@ https://drive.google.com/uc?export=download&id=19NAyct6gIwOPBriemTryWqXc8k2jAdAe
 
 -------------------  
 進学の 事例（投稿論文の　page 4）の デモ
+the demonstration of the case study of going on to higher education.
 -------------------  
 
 64 MB
